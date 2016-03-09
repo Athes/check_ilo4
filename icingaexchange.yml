@@ -2,8 +2,8 @@ name: check_ilo4
 description: "file:///README.md"
 url: "https://github.com/Athes/check_ilo4"
 tags: Plugin
-vendor: Linux
-target: Operating System
+vendor: HP
+target: Hardware
 type: Plugin
 license: CC BY-NC-SA 4.0
 releases: 
