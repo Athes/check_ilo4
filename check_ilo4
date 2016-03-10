@@ -3,6 +3,7 @@
 # Last update 2016/03/09 tokaji.attila@gmail.com
 #Requires: ipmitool - Tested with ipmitool-1.8.11-21 on CentOS
 #License: CC BY-NC-SA 4.0
+#Usage: check_ilo4 <ilouser> <ilouserpassword> <iloIP or iloHostname>
 
 
 TMPFILE=$(mktemp)
